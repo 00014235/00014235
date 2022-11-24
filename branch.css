@@ -1,0 +1,16 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+h3{
+    align-items: center;
+    
+}
+.branch{
+	position: relative;
+	border: 1px solid #000;
+	height: 500px;
+	width: 800px;
+	margin-top: 150px;
+	left: 15%;
+}
